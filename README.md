@@ -1,12 +1,11 @@
-# [ENTER HEADLINE HERE]
+# Inspirely
 <a href="https://www.python.org/downloads/release/python-3131/"><img src="https://img.shields.io/badge/python-3.13.1-success?style=for-the-badge&logo=python&logoColor=white"></img></a>
-<img src="https://img.shields.io/badge/Last%20update-13.01.2025-blue?style=for-the-badge"></img> 
+<img src="https://img.shields.io/badge/Last%20update-15.01.2025-blue?style=for-the-badge"></img> 
 <a href="https://github.com/BenjaminHupf/Inspirely/blob/main/LICENSE"><img src="https://img.shields.io/github/license/BenjaminHupf/Inspirely?style=for-the-badge"></img></a>
 
 ## Description
-<!-- 
-Short, one-sentence description of the project
--->
+
+This project is an open-source clone of Inspirobot that generates motivational images by overlaying randomly selected quotes onto randomly chosen background images.
 
 
 ## Table of Contents
@@ -30,7 +29,7 @@ Detailed description of how to install the specific requirements and everything 
 
 ## How to use
 
-<!-- Everything that has to be done in order for the program to work properly, changes the user can make to customize the result and things the user has to pay attention to, to ensure that the program runs without errors -->
+After running "app.py" you can head to http://127.0.0.1:5000 to view a simple website that shows an image and underneath the image is a link to generate a new image.
 
 ## How it works
 
@@ -44,9 +43,10 @@ e.g. Accuracy
 -->
 
 ## Problems 
-<!-- OPTIONAL -->
 
-<!-- Some known or to be expected problems, for example because the program is only a proof of concept -->
+Currently there are a few major problems that will be addressed in the next few patches:
+- The text can be too long and therefore won't fit on the image.
+- The quotes are currently pre-generated and not generated with each new image meaning repeated quotes can and will happen.
 
 ## License and credits
 
