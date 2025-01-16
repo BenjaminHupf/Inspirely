@@ -1,7 +1,7 @@
 # Inspirely
 <a href="https://www.python.org/downloads/release/python-3131/"><img src="https://img.shields.io/badge/python-3.13.1-success?style=for-the-badge&logo=python&logoColor=white"></img></a>
-<img src="https://img.shields.io/badge/Last%20update-15.01.2025-blue?style=for-the-badge"></img> 
-<a href="https://github.com/BenjaminHupf/Inspirely/blob/main/LICENSE"><img src="https://img.shields.io/github/license/BenjaminHupf/Inspirely?style=for-the-badge"></img></a>
+<img src="https://img.shields.io/badge/Last%20update-16.01.2025-blue?style=for-the-badge"></img> 
+[<img src="https://img.shields.io/github/license/BenjaminHupf/Inspirely?style=for-the-badge">](LICENSE.md)
 
 ## Description
 
@@ -50,7 +50,7 @@ Currently there are a few major problems that will be addressed in the next few 
 
 ## License and credits
 
-This work is made available under the **<a href="https://github.com/BenjaminHupf/Inspirely/blob/main/README.md">GNU Affero General Public License v3.0</a>**.
+This work is made available under the **[GNU Affero General Public License v3.0](LICENSE.md)**.
 
 Project made by **<a href="https://github.com/BenjaminHupf">Benjamin Hupf</a>**.
 
